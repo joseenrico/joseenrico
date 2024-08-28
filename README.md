@@ -2,7 +2,7 @@
   <img src="https://github.com/joseenrico/aboutme/blob/main/aboutme.jpg" alt="photo">
 </p>
 
-<h1 align="center">Hi there! 👋 I'm Jose Enrico Markus Napitupulu</h1>
+<h1 align="center">Jose Enrico Markus Napitupulu</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Student%20at-Informatics%20UBSI-blue" alt="Student Badge">
