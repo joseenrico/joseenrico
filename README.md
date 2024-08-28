@@ -22,6 +22,7 @@
 <p>👨‍💻 <strong>Current Focus</strong></p>
 <ul>
   <li>🔍 Enhancing my skills in <strong>Fullstack Development</strong> using <strong>React, Vue, and Laravel</strong>.</li>
+  <li>🏅 Learning and exploring <b>Android Developer.</b></li>
   <li>📊 Learning and exploring the exciting world of <strong>Data Science</strong>.</li>
   <li>💻 Preparing for various <strong>opportunities</strong> to gain hands-on experience.</li>
 </ul>
