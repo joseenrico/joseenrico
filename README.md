@@ -1,12 +1,8 @@
 <h1 align="center">Hi there! 👋 I'm Jose Enrico Markus Napitupulu</h1>
 
 <p align="center">
-  <img src="https://github.com/joseenrico/profilme/blob/main/1947484.jpg" alt="Avatar">
+  <img src="https://github.com/joseenrico/profilme/blob/main/aboutme.jpg" alt="photo">
 </p>
-
-
-<h1 align="center">Hi 👋, I'm Jose Enrico Markus Napitupulu</h1>
-<h3 align="center">I am a **Informatics student** with a strong passion for **Software Development, Data Science, and Web Development**. My journey includes building robust web applications, diving deep into data analysis.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joseenrico&label=Profile%20views&color=0e75b6&style=flat" alt="joseenrico" /> </p>
 
