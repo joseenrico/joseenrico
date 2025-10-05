@@ -48,10 +48,11 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joseenrico&theme=radical" alt="GitHub Streak" height="180"/>
-</p>
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseenrico&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
+</p>
 ---
 
 <h3 align="center">🌟 Let's Build Something Amazing Together!</h3>
